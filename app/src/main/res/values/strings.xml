@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Melobit</string>
+    <string name="welcome">Powered By Melobit</string>
+
+    <string name="HomePostType_new">New Songs</string>
+    <string name="HomePostType_topSingers">Top Singers</string>
+    <string name="HomePostType_topSongDay">Top day song</string>
+    <string name="HomePostType_topSongWeek">Top week song</string>
+
+</resources>
